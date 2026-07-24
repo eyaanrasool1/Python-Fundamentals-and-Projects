@@ -11,7 +11,6 @@ A collection of Python programs, exercises, and mini-projects created while lear
 - Loops
 - Functions
 - Exception Handling
-- Object-Oriented Programming (OOP)
 - Modules and Packages
 - Python Projects and Games
 
